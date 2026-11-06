@@ -1,0 +1,8 @@
+# Ignore the raw dataset directory
+Logistics-auditor/dataset/
+
+# Ignore exported CSVs
+*.csv
+
+# Python checkpoint folders
+.ipynb_checkpoints/
